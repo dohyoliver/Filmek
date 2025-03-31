@@ -152,9 +152,9 @@ const App = () => {
       <h1 className="text-center my-4">Filmek Világa</h1>
       <p className="text-center my-4">Fedezd fel a legjobb filmeket</p>
       <nav className="container navbar navbar-light bg-light mb-4">
-        <a href="#" className="navbar-brand">Filmek</a>
-        <a href="#" className="nav-link">Kezdőlap (Filmlista)</a>
-        <a href="#" className="nav-link">Felvétel</a>
+        <a href="" className="navbar-brand">Filmek</a>
+        <a href="" className="nav-link">Kezdőlap (Filmlista)</a>
+        <a href="" className="nav-link">Felvétel</a>
       </nav>
       <FilmHozzaadas onAdd={addFilm} />
       
